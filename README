@@ -1,7 +1,4 @@
-15-440 Spring 2022
-Project 1
-
-These are the samples and starter code for Project 1.
+These are the samples and starter code.
 Because this project uses precompiled libraries and 
 binaries, it will only run on 64-bit x86 Linux machines.
 (e.g., Andrew unix servers; it won't run on Windows or
